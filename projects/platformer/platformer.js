@@ -60,7 +60,7 @@ $(function () {
     createCollectable("database" , 200, 170, 6, 0.7)
     createCollectable("steve", 830, 450, 0, 0.7)
     createCollectable("max", 1200, 300, 5, 0.7)
-    createCollectable("kennedi", 1300, 55,)
+    createCollectable("kennedi", 1300, 55, 20, 0.5)
     // TODO 3
     // Create cannons
     // You must decide the wall you want the cannon on, the position on the wall, and the time between shots in milliseconds
