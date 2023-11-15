@@ -51,7 +51,7 @@ var init = function (window) {
 
             // TODO 5 / 10 : Call game.checkCirclePosition() on your circles.
             for (var i = 0; i < circles.length; i++) {
-                game.checkCirclePosition(circle[i]);
+                game.checkCirclePosition(circles[i]);
               }
 
             // TODO 9 : Iterate over the array
