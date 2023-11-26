@@ -30,7 +30,7 @@ var init = function (window) {
         circles.push(circle);
         physikz.addRandomVelocity(circle, canvas, 10, 10);}
         // TODO 3 / 7 : Call the drawCircle() function 
-        for (var i = 0; i < 10; i++) {
+        for (var i = 0; i < 100; i++) {
             drawCircle()
             }            
 
